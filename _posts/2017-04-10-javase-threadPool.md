@@ -172,10 +172,10 @@ Java代码
 - }
 ```
 效果如下：
-![](https://app.yinxiang.com/shard/s67/res/c4a09894-76f0-4fe3-8536-d1074c50ca52.jpg)
+![](http://dl.iteye.com/upload/picture/pic/129496/a37b1415-36ac-30b8-baf6-10897bbf443a.jpg)
 
 选择我们运行的程序：
-![](https://app.yinxiang.com/shard/s67/res/28b00407-182e-4886-b96a-35be8bf6a6ea.jpg)
+![](http://dl.iteye.com/upload/picture/pic/129498/c518b086-b144-366c-884c-58a4bf985b05.jpg)
 监控运行状态
 
 
