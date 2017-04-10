@@ -12,7 +12,7 @@ INNER JOIN（内连接,或等值连接）：获取两个表中字段匹配关系
 LEFT JOIN（左连接）：获取左表所有记录，即使右表没有对应匹配的记录。
 RIGHT JOIN（右连接）： 与 LEFT JOIN 相反，用于获取右表所有记录，即使左表没有对应匹配的记录
 ![]( https://raw.githubusercontent.com/winterthinklinux/mdpics/master/images/mysql/img_innerjoin.gif)
-![]( https://github.com/winterthinklinux/mdpics/blob/master/images/mysql/img_leftjoin.gif)
+![]( https://raw.githubusercontent.com/winterthinklinux/mdpics/master/images/mysql/img_leftjoin.gif)
 ![]( https://raw.githubusercontent.com/winterthinklinux/mdpics/master/images/mysql/img_rightjoin.gif)
 ![]( https://raw.githubusercontent.com/winterthinklinux/mdpics/master/images/mysql/runoob_tbl.png)
 ![]( https://raw.githubusercontent.com/winterthinklinux/mdpics/master/images/mysql/tcount_tbl.png)
