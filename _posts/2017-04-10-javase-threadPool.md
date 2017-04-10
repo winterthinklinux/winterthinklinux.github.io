@@ -1,4 +1,10 @@
-Java四种线程池的使用
+---
+layout: post
+title: Java四种线程池的使用
+tags:  Java
+category: 技术
+date: 2017-04-10 19:39:08
+---
 
 ###线程池监控
 
@@ -166,10 +172,10 @@ Java代码
 - }
 ```
 效果如下：
-![](https://app.yinxiang.com/shard/s67/res/c4a09894-76f0-4fe3-8536-d1074c50ca52)
+![](https://app.yinxiang.com/shard/s67/res/c4a09894-76f0-4fe3-8536-d1074c50ca52.jpg)
 
 选择我们运行的程序：
-![](https://app.yinxiang.com/shard/s67/res/28b00407-182e-4886-b96a-35be8bf6a6ea)
+![](https://app.yinxiang.com/shard/s67/res/28b00407-182e-4886-b96a-35be8bf6a6ea.jpg)
 监控运行状态
 
 
