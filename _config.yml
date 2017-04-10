@@ -1,0 +1,50 @@
+encoding: UTF-8
+
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+highlighter: rouge
+# pygments: true
+
+# 作者信息
+author: 
+  name: 岁月寒冬
+  email: stu233win@gmail.com
+  link: winterthinklinux.github.io/
+  weibo: http://weibo.com/u/
+  github: https://github.com/
+  github_username:  
+  zhihu: https://www.zhihu.com/people/
+  weibo_username: shuwinter
+
+# 站点信息
+title: 岁月寒冬
+description: 
+ If,<br/>for example,<br/>you come at four o'clock in the afternoon,<br/>then at three o'clock I shall begin to be happy.
+rss_url: /feed.xml
+
+# gavatar头像及Favicon
+gavatar : /assets/img/gravatar.png
+favicon : /assets/img/favicon.ico
+
+# disqus 设置
+#disqus:
+#  shortname: blademastercoder
+
+#profile 个人信息
+
+profile_desc : 技术<br>生活<br>此刻与你分享<br>
+
+# 首页除了最新文章外显示分类
+cates: 
+- Essay
+# - Python
+# - OpenStack
+
+# 中文本地化
+locals: 
+   newest : 最新文章
