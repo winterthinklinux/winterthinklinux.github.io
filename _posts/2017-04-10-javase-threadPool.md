@@ -166,10 +166,11 @@ Java代码
 - }
 ```
 效果如下：
-
+![](https://app.yinxiang.com/shard/s67/res/c4a09894-76f0-4fe3-8536-d1074c50ca52)
 
 选择我们运行的程序：
-
+![](https://app.yinxiang.com/shard/s67/res/28b00407-182e-4886-b96a-35be8bf6a6ea)
 监控运行状态
 
 
+转载：http://www.javacui.com/
