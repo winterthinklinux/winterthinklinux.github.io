@@ -28,6 +28,8 @@ SELECT a.runoob_id, a.runoob_author, b.runoob_count FROM runoob_tbl a INNER JOIN
 SELECT a.runoob_id, a.runoob_author, b.runoob_count FROM runoob_tbl a, tcount_tbl b WHERE a.runoob_author = b.runoob_author;
 ```
 ![]( https://raw.githubusercontent.com/winterthinklinux/mdpics/master/images/mysql/inner_join..png)
+
+
 外连接：
 
 左外连接：
