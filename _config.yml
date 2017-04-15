@@ -10,7 +10,7 @@ kramdown:
 highlighter: rouge
 # pygments: true
 
-# 作者信息
+
 author: 
   name: 岁月寒冬
   email: stu233win@gmail.com
@@ -21,7 +21,7 @@ author:
   zhihu: https://www.zhihu.com/people/
   weibo_username: shuwinter
 
-# 站点信息
+
 title: 岁月寒冬
 description: 
  If,<br/>for example,<br/>you come at four o'clock in the afternoon,<br/>then at three o'clock I shall begin to be happy.
