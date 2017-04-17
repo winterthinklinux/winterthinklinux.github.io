@@ -101,7 +101,7 @@ permalink: /pages/about.html
 				github：
 			</td>  
 			<td>
-				<a href="{{ site.author.github }}" target="_blank">github.com</a>
+				<a href="{{ site.author.github }}" target="_blank">winterthinklinux</a>
 			</td>  
 		</tr>
 
