@@ -2,10 +2,12 @@
 layout: post
 title: 数据库30条军规解读
 tags: architecture
-category: architecture
+category: 架构
 date: 2017-04-20 18:22:08
 ---
+
 ###### 数据库30条军规解读
+
 军规适用场景：并发量大、数据量大的互联网业务
 
 军规：介绍内容
