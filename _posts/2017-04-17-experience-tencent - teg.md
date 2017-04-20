@@ -2,7 +2,7 @@
 layout: post
 title: 20140417tencent一轮技术面
 tags:  experience
-category: experience
+category: 经验
 date: 2017-04-17 14:00:08
 ---
 
