@@ -63,7 +63,7 @@ permalink: /pages/about.html
 	<table class="table table-striped">
 		<tr>
 			<td>姓  名：</td>    
-			<td>张  岚</td>
+			<td>shuwinter</td>
 		</tr>
 		<tr>
 			<td>学  历：</td>    
